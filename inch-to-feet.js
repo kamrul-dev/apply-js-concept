@@ -28,4 +28,4 @@ function milesToKelometes(miles){
     return miles;
 }
 var marathon = milesToKelometes(26.2);
-console.log('Marathon miles in Kelometer',marathon);
+console.log('Marathon miles in Kilometer',marathon);
