@@ -16,7 +16,7 @@ function getFactorial(number){
     return factorial;
 }
 var firstFactorial = getFactorial(7);
-console.log('fadtorial of 7 is :', firstFactorial);
+console.log('factorial of 7 is :', firstFactorial);
 
 var secondFactorial = getFactorial(9);
 console.log('factorial of 9 :', secondFactorial);
